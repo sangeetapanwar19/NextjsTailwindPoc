@@ -1,7 +1,7 @@
 const path = require('path')
 const nextConfig = {
 	experimental: {
-	  optimizeCss: true, // enabling this will enable SSR for Tailwind
+	  optimizeCss: false, // enabling this will enable SSR for Tailwind
 	},
 };
 module.exports = {
