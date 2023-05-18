@@ -118,7 +118,7 @@ export default function Header() {
         />
         <div class="hidden lg:block absolute -bottom-1/4 right-0 left-0 mx-auto w-big h-big bg-indigo-900 rounded-full -z-10"></div>
         <div class="absolute top-1/3 left-5 font-bold text-xl sm:left-10 sm:text-4xl md:left-20 md:text-6xl lg:left-5 xl:left-32 xl:text-6xl">
-          <span class="text-red-400">Frontend</span>
+          <span class="text-yellow-400">Frontend</span>
           <AutoTyping/>
         </div>
         <div class="hidden lg:flex gap-5 rounded-md shadow-lg flex-col absolute top-0 bottom-0 m-auto right-10 bg-white p-6 h-fit w-1/3">
