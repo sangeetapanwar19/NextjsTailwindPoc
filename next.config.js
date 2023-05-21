@@ -4,7 +4,7 @@ const nextConfig = {
 
 	experimental: {
 
-	  optimizeCss: false, // enabling this will enable SSR for Tailwind
+	  optimizeCss: true, // enabling this will enable SSR for Tailwind
 
 	},
 
